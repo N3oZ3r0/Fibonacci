@@ -55,3 +55,5 @@ int main()
 
 //Para 30, Fibonacci da 832040
 //Tiempo 996 microseconds
+
+//Checked
